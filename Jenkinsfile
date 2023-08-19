@@ -1,10 +1,4 @@
-pipeline {
-  agent {
-    docker {
-      image 'chaitannyaa/maven-plus-docker'
-      args '--user ubuntu -v /var/run/docker.sock:/var/run/docker.sock' // mount Docker socket to access the host's Docker daemon
-    }
-  }
+node {
   stages {
     stage('Build and Test') {
       steps {
