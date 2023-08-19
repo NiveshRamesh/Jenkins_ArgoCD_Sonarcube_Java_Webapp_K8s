@@ -47,6 +47,3 @@ Use clear, concise and easy-to-read code.
 - Make your changes and Test your changes thoroughly to ensure they work as intended.
 - Create a pull request with a clear description of your changes.
 
-# License
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Chaitannyaa/Jenkins_ArgoCD_Sonarcube_Java_Webapp_K8s/blob/1e00bd7d495e5a00eb652e06c3300ab59162c241/LICENSE) file for details.
